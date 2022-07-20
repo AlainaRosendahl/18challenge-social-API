@@ -11,10 +11,8 @@
   - [Additional Info](#additional-info)
   ## Description:
   The application contained within is a functional backend for a proposed social networking platform.
-  ## Installation:
+  ## Installation/Usage:
   Clone repo, in the terminal run `npm install` and start the server with `npm start`.
-  ## Usage:
-   
   ## License:
   MIT
   ## Contribution:

@@ -16,7 +16,7 @@
   ## Usage:
    
   ## License:
-  
+  MIT
   ## Contribution:
   Please Don't
   ## Testing:
